@@ -5,10 +5,10 @@ During my information security block, we were required to download and install K
 #### Please note, I scrambled the IP addresses of the devices I scanned to enhance their online privacy and security.
 
 ### Figure 1 finding IP address and scanning the network
-<img src="https://github.com/user-attachments/assets/48f3f63f-04d1-4532-9207-824e07deff1c" width ='500'>
+<img src="https://github.com/user-attachments/assets/5d5c6de3-8b67-4f95-af7f-3ed948feca2c" width ='500'>
 
 ### Figure 2 Scanning port 80 and 443
-<img src="https://github.com/user-attachments/assets/191f92db-ded5-4310-9e36-7b7f13a43f85" width='500'>
+<img src="https://github.com/user-attachments/assets/8981e8e7-2990-4e9f-b3c4-c9d53e89c235" width='500'>
 
 <img src="https://github.com/user-attachments/assets/be04b31a-8520-45a2-93d8-feaaa6ac88fd" width='500'>
 
