@@ -6,13 +6,12 @@ During my information security block, we were required to download and install K
 <img src="https://github.com/user-attachments/assets/48f3f63f-04d1-4532-9207-824e07deff1c" width ='500'>
 
 ### Figure 2 Scanning port 80 and 443
-<img src="https://github.com/user-attachments/assets/329d5a6c-784a-4ad5-b36a-b95950db79e2" width='500'>
+<img src="https://github.com/user-attachments/assets/191f92db-ded5-4310-9e36-7b7f13a43f85" width='500'>
 
-<img src="https://github.com/user-attachments/assets/5f3caaf1-6fb4-44ff-bee3-9ab40384a8a6" width='500'>
+<img src="https://github.com/user-attachments/assets/be04b31a-8520-45a2-93d8-feaaa6ac88fd" width='500'>
 
 ### Figure 3 Scanning the target device
 <img src="https://github.com/user-attachments/assets/224b4353-54dd-4f53-a92d-a9d3e2dbaf97" width='500'>
-
 
 ### Figure 4 To see which version is opened
 <img src="https://github.com/user-attachments/assets/7af66150-e1b7-4e2d-9c01-12225d4f6da8" width='500'>
