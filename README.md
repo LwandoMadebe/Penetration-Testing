@@ -2,6 +2,8 @@
 
 During my information security block, we were required to download and install Kali Linux. I took screenshots and gathered data to document my activities, which included scanning ports and identifying other networks. I familiarized myself with command lines and attempted penetration tests. Additionally, I engaged in friendly "handshakes" with nearby devices that I knew and had permission to interact with.
 
+#### Please note, I scrambled the IP addresses of the devices I scanned to enhance their online privacy and security.
+
 ### Figure 1 finding IP address and scanning the network
 <img src="https://github.com/user-attachments/assets/48f3f63f-04d1-4532-9207-824e07deff1c" width ='500'>
 
